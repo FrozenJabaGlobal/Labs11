@@ -6,12 +6,13 @@ namespace Laba1
 {
     public class ConsoleMenu
     {
-        
+
         public ConsoleMenu()
         {
+            DataBase.DataBaseWrite();
             MainMenu();
         }
-        
+
 
         public void MainMenu()
         {
@@ -45,7 +46,7 @@ namespace Laba1
                     MainMenu();
                     break;
             }
-            
+
         }
         public static void StudentsOutput()
         {
@@ -53,24 +54,31 @@ namespace Laba1
             {
                 for (int i = 0; i < 5; i++)
                 {
-                   Console.WriteLine(DataBase.StudentBase[i].Name + " " + DataBase.StudentBase[i].LastName + " номер Студенческого: " + DataBase.StudentBase[i].StudentId + " Курс: " + DataBase.StudentBase[i].Course + " день рождения: " + DataBase.StudentBase[i].Date);
+                    stream.WriteLine(DataBase.StudentBase[i].Name + " " + DataBase.StudentBase[i].LastName + " номер Студенческого: " + DataBase.StudentBase[i].StudentId + " Курс: " + DataBase.StudentBase[i].Course + " день рождения: " + DataBase.StudentBase[i].Date);
+                    Console.WriteLine(DataBase.StudentBase[i].Name + " " + DataBase.StudentBase[i].LastName + " номер Студенческого: " + DataBase.StudentBase[i].StudentId + " Курс: " + DataBase.StudentBase[i].Course + " день рождения: " + DataBase.StudentBase[i].Date);
                 }
             }
         }
+
         public void SerchSt(string serch)
         {
             for (int i = 0; i < 5; i++)
             {
                 if (DataBase.StudentBase[i].Name == serch || DataBase.StudentBase[i].StudentId == serch)
                 {
-                   Console.WriteLine(DataBase.StudentBase[i].Name + " " + DataBase.StudentBase[i].LastName + " номер Студенческого: " + DataBase.StudentBase[i].StudentId + " Курс: " + DataBase.StudentBase[i].Course + " день рождения: " + DataBase.StudentBase[i].Date);
+                    Console.WriteLine(DataBase.StudentBase[i].Name + " " + DataBase.StudentBase[i].LastName +
+                                      " номер Студенческого: " + DataBase.StudentBase[i].StudentId + " Курс: " +
+                                      DataBase.StudentBase[i].Course + " день рождения: " +
+                                      DataBase.StudentBase[i].Date);
                 }
+                
             }
         }
+
         public void Filter()
         {
             for (int i = 0; i < 5; i++){
-                if (Regex.IsMatch(DataBase.StudentBase[i].Course, "[4]") && Regex.IsMatch(DataBase.StudentBase[i].Date, @"\d\d[.][0][3-5][.]"))
+                if (Regex.IsMatch(DataBase.StudentBase[i].Course, "[4]") && Regex.IsMatch(DataBase.StudentBase[i].Date, @"\d{2}[.][0][3-5][.]"))
                 {
                     Console.WriteLine(DataBase.StudentBase[i].Name + " " + DataBase.StudentBase[i].LastName + " номер Студенческого: " + DataBase.StudentBase[i].StudentId + " Курс: " + DataBase.StudentBase[i].Course + " день рождения: " + DataBase.StudentBase[i].Date);
                 }

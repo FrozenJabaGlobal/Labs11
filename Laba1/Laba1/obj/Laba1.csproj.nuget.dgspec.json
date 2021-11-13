@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\source\\repos\\Labs\\Laba1\\Laba1\\Laba1.csproj": {}
+    "F:\\source\\repos\\Labs11\\Laba1\\Laba1\\Laba1.csproj": {}
   },
   "projects": {
-    "F:\\source\\repos\\Labs\\Laba1\\Laba1\\Laba1.csproj": {
+    "F:\\source\\repos\\Labs11\\Laba1\\Laba1\\Laba1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\source\\repos\\Labs\\Laba1\\Laba1\\Laba1.csproj",
+        "projectUniqueName": "F:\\source\\repos\\Labs11\\Laba1\\Laba1\\Laba1.csproj",
         "projectName": "Laba1",
-        "projectPath": "F:\\source\\repos\\Labs\\Laba1\\Laba1\\Laba1.csproj",
+        "projectPath": "F:\\source\\repos\\Labs11\\Laba1\\Laba1\\Laba1.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "F:\\source\\repos\\Labs\\Laba1\\Laba1\\obj\\",
+        "outputPath": "F:\\source\\repos\\Labs11\\Laba1\\Laba1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
