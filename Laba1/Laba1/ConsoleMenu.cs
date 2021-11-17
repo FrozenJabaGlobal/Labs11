@@ -9,7 +9,6 @@ namespace Laba1
 
         public ConsoleMenu()
         {
-            DataBase.DataBaseWrite();
             MainMenu();
         }
 

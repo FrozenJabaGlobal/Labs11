@@ -2,12 +2,17 @@
 {
     public class Line
     {
-        public Line(int num, int length)
+        public Line( string num, int length)
         {
             Num = num;
-            Length = length;
         }
-        public int Num { get; set; }
-        public int Length { get;set; }
+
+        public Line()
+        {
+            
+        }
+
+        public string Num { get; set; }
+        public string Strings { get; set; }
     }
 }
