@@ -1,0 +1,15 @@
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\bin\Debug\net6.0\Data.deps.json
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\bin\Debug\net6.0\Data.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\bin\Debug\net6.0\ref\Data.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\bin\Debug\net6.0\Data.pdb
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\bin\Debug\net6.0\Core.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\bin\Debug\net6.0\Core.pdb
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\ref\Data.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Data\obj\Debug\net6.0\Data.pdb

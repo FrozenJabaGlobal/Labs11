@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfDormitory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dormitory>
+    <Name>Гуртожиток №3</Name>
+    <Rooms>
+      <Room>
+        <Number>11</Number>
+        <CountOfPlace>1</CountOfPlace>
+        <StudentsInRoom>
+          <Student>
+            <Surname>Петренко</Surname>
+            <Name>Василь</Name>
+            <Age>17</Age>
+          </Student>
+        </StudentsInRoom>
+      </Room>
+      <Room>
+        <Number>34</Number>
+        <CountOfPlace>4</CountOfPlace>
+        <StudentsInRoom />
+      </Room>
+      <Room>
+        <Number>99</Number>
+        <CountOfPlace>4</CountOfPlace>
+        <StudentsInRoom />
+      </Room>
+    </Rooms>
+    <CountOfPlace>100</CountOfPlace>
+  </Dormitory>
+</ArrayOfDormitory>

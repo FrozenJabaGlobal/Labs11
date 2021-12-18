@@ -1,0 +1,7 @@
+F:\source\repos\Labs11\Laba4\Laba4\bin\Debug\Laba4.exe
+F:\source\repos\Labs11\Laba4\Laba4\bin\Debug\Laba4.pdb
+F:\source\repos\Labs11\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+F:\source\repos\Labs11\Laba4\Laba4\obj\Debug\Laba4.csproj.SuggestedBindingRedirects.cache
+F:\source\repos\Labs11\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+F:\source\repos\Labs11\Laba4\Laba4\obj\Debug\Laba4.exe
+F:\source\repos\Labs11\Laba4\Laba4\obj\Debug\Laba4.pdb

@@ -1,0 +1,12 @@
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\bin\Debug\net6.0\Core.deps.json
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\bin\Debug\net6.0\Core.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\bin\Debug\net6.0\ref\Core.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\bin\Debug\net6.0\Core.pdb
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\Core.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\ref\Core.dll
+F:\source\repos\Labs11\ElectronicDeansOffice\Core\obj\Debug\net6.0\Core.pdb

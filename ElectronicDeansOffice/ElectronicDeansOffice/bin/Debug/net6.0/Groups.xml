@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <Name>РТ</Name>
+    <StudentsInGroup />
+  </Group>
+  <Group>
+    <Name>ОП</Name>
+    <StudentsInGroup />
+  </Group>
+  <Group>
+    <Name>КІ</Name>
+    <StudentsInGroup>
+      <Student>
+        <Surname>Блоха</Surname>
+        <Name>Андрій</Name>
+        <Age>18</Age>
+      </Student>
+      <Student>
+        <Surname>Кирилюк</Surname>
+        <Name>Андрій</Name>
+        <Age>18</Age>
+      </Student>
+    </StudentsInGroup>
+  </Group>
+</ArrayOfGroup>

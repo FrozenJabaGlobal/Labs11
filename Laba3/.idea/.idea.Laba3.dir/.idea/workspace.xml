@@ -5,13 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06fea674-dcf4-4fa3-a50a-77e4ae0ec79b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Laba3.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Laba3.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Laba3.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Laba3.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laba1/Laba1/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba1/Laba1/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laba1/Laba1/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba1/Laba1/Student.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laba2/ListOptionts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba2/Lists.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cursach/.idea/.idea.Cursach/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/.idea/.idea.ElectronicDeansOffice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/.idea/.idea.ElectronicDeansOffice/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/.idea/.idea.ElectronicDeansOffice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/Core/Entities/Dormitory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/Core/Entities/Group.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/Core/Entities/Room.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/Core/Entities/Student.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/Core/MainFunc/Entering.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/Core/MainFunc/MainFunctional.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/Data/IO/XmlDataServices.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/ElectronicDeansOffice/ElectronicDeansOffice.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectronicDeansOffice/ElectronicDeansOffice/Menu/MainMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLSerialize.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laba3.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laba3.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Line.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Line.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListOptionts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Laba2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Laba2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Laba2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Laba2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/ref/Laba2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/ref/Laba2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Laba2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Laba2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Laba2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Laba2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Laba2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Laba2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Laba2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Laba2.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +39,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/982ba7f767204c55bb7c008afbb9e07281a468/234/XmlSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="21BoYtU0AYKWm0BqU15GJcP7BUA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,6 +49,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -63,6 +86,17 @@
       <updated>1637423892020</updated>
       <workItem from="1637423895706" duration="1956000" />
       <workItem from="1638700175610" duration="77000" />
+      <workItem from="1638867225217" duration="2422000" />
+      <workItem from="1639315047235" duration="745000" />
+      <workItem from="1639326270802" duration="285000" />
+      <workItem from="1639326641588" duration="1024000" />
+      <workItem from="1639383777942" duration="580000" />
+      <workItem from="1639384466092" duration="2012000" />
+      <workItem from="1639389381512" duration="1763000" />
+      <workItem from="1639391490293" duration="122000" />
+      <workItem from="1639684115815" duration="348000" />
+      <workItem from="1639684540237" duration="25000" />
+      <workItem from="1639684798893" duration="1275000" />
     </task>
     <servers />
   </component>
@@ -72,6 +106,18 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
